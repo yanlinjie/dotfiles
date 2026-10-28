@@ -1,4 +1,4 @@
-]633;E;for plugin in "$HOME"/.local/share/nvim/site/pack/*/opt/*;d495cbfd-5e9e-4529-9d3e-8ba11ff2f13d]633;Csite/pack/markdown-tools/opt/render-markdown.nvim	https://github.com/MeanderingProgrammer/render-markdown.nvim.git	8e8795368391036643b622875a6da6a51bcd33f4
+site/pack/markdown-tools/opt/render-markdown.nvim	https://github.com/MeanderingProgrammer/render-markdown.nvim.git	8e8795368391036643b622875a6da6a51bcd33f4
 site/pack/markdown-tools/opt/vim-table-mode	https://github.com/dhruvasagar/vim-table-mode.git	bb025308a45c67c7c8f0763ba37bc2ee3f534df0
 site/pack/project-tools/opt/nvim-tree.lua	https://github.com/nvim-tree/nvim-tree.lua.git	9a2e0006d42f292eb3ade7dfdff201a7429a780c
 site/pack/project-tools/opt/plenary.nvim	https://github.com/nvim-lua/plenary.nvim.git	74b06c6c75e4eeb3108ec01852001636d85a932b
